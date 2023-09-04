@@ -16,7 +16,14 @@ public class app {
 
         System.out.println("The subtraction of num1 and num2: " + subtract);
 
+        int product = num1 * num2;
+        int quota = num1 / num2;
+
+        System.out.println("The product of num1 and num2 is: " + product);
+        System.out.println("The quota of num1/num2 is: " + quota);
+
         
+
 
 
 
