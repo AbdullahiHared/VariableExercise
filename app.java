@@ -30,6 +30,29 @@ public class app {
 
 
 
+        double decimalNumOne = 5.3;
+        double decimalNumTwo = 44.4;
+
+        double addDecimal = decimalNumOne  + decimalNumTwo;
+        double subtractDecimal = decimalNumOne  - decimalNumTwo;
+
+        System.out.println("The sum of decimalOne and decimalTwo is: " + addDecimal);
+        System.out.println("The subtraction of decimalOne and decimalTwo is: " + subtractDecimal);
+
+        double multiplyDecimal = decimalNumOne  + decimalNumTwo;
+        double divideDecimal = decimalNumOne  + decimalNumTwo;
+
+        System.out.println("The division of decimalNumOne and decimalNumTwo is: " + divideDecimal);
+        System.out.println("The multiplication of decimalNumOne and decimalNumTwo is:" + multiplyDecimal);
+
+
+        
+
+
+
+
+ 
+
 
 
     }
