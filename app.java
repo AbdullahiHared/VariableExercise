@@ -22,7 +22,11 @@ public class app {
         System.out.println("The product of num1 and num2 is: " + product);
         System.out.println("The quota of num1/num2 is: " + quota);
 
-        
+        int remainder1 = 10%3;
+        int remainder2 = 173%2;
+
+        System.out.println("The remainder of 10 % 3 is = " + remainder1);
+        System.out.println("The remainder of 173 % 2 is = " + remainder2);
 
 
 
